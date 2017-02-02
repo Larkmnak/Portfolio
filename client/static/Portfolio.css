@@ -1,0 +1,75 @@
+* 
+{
+	margin: 0px;
+	padding: 0px;	
+}
+
+
+h1, h2, h3
+{
+	color: #00ccff;
+	font-family: 'PT Sans Caption', sans-serif;
+}
+h4, p
+{
+	color: #99ffff;
+	font-family: 'PT Sans Caption', sans-serif;
+}
+h4
+{
+	font-size: 20px;
+}
+a
+{
+	color: silver;
+	font-size: 20px;
+	font-weight: bolder;
+}
+u
+{
+	font-weight: bolder;
+}
+body
+{
+	background-image: url('header.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+
+.panel
+{
+	opacity: 0.7;
+}
+.panel-heading
+{
+	background-image: url('BlueWood.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.panel-body
+{
+	background-image: url('BlueRug.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+}
+
+
+#heading
+{
+	 margin: 40px 160px;
+}
+#logo
+{
+	float: right;
+	background-size: 10%;
+	height: 180px;
+	width: 180px;
+	margin-right: 40px;
+}
+.text-justify
+{
+	margin: 0px 120px;
+}
