@@ -53,7 +53,15 @@ body
 	background-image: url('BlueRug.png');
 	background-repeat: no-repeat;
 	background-size: 100%;
+}
 
+.title
+{
+	margin-bottom: -40px;
+	margin-top: 40px;
+	margin-right: -80px;
+	position: relative;
+	top: 20px;
 }
 
 
@@ -67,7 +75,9 @@ body
 	background-size: 10%;
 	height: 180px;
 	width: 180px;
-	margin-right: 40px;
+	position: relative;
+	right: 80px;
+	bottom: 60px;
 }
 .text-justify
 {
